@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Production-Grade RAG Pipeline for Biology Textbook MCQ Generation with JSON Output
+RAG Pipeline for MCQ Generation with JSON Output
 Uses PGVector for retrieval and Groq API for LLM-based MCQ generation
 Returns structured JSON format for MCQs
+
 """
 
 import os
