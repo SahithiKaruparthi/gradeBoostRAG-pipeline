@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PGVector Database Implementation for Biology Textbook RAG Pipeline
+PGVector Database Implementation for RAG Pipeline
 Handles vector storage, retrieval, and metadata management
 
 This script creates and manages a Vector Database using PostgreSQL and the pgvector extension. 
