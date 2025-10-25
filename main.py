@@ -19,7 +19,6 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field
 import uvicorn
 
-# Import existing modules
 from rag_pipeline_json import RAGPipelineJSON, MCQuestion, MCQOption, RAGPipelineResult
 from pgvector_database import PGVectorDatabase, DocumentChunk
 from document_processor import DocumentProcessor
@@ -42,10 +41,10 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Add CORS middleware
+# CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Configure appropriately for production
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -99,7 +98,7 @@ class DatabaseStats(BaseModel):
     embedding_model: str
     embedding_dimension: int
 
-# In-memory storage for processing status (use Redis in production)
+# In-memory storage for processing status
 processing_status = {}
 
 @app.on_event("startup")
