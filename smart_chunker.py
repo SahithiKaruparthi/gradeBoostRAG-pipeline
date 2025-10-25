@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """
-Hierarchical Chunker for Biology Textbook Content.
+Hierarchical Chunker for Textbook Content.
 Reads pre-cleaned markdown files and creates context-aware chunks.
 
 Its main job is to take the cleaned markdown files from the previous step and break them down into smaller, intelligent pieces, or "chunks."
