@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Production-Grade RAG Pipeline for Biology Textbook MCQ Generation
+RAG Pipeline for MCQ Generation
 Uses PGVector for retrieval and Groq API for LLM-based MCQ generation
 
 This script is a complete RAG (Retrieval-Augmented Generation) Pipeline packaged as a powerful command-line tool. 
