@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0007
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.4 STRUCTURE OF CHROMOSOMES'}
+-------------------- CONTENT --------------------
+
+Each chromosome in its condensed form as visible during the start of cell division, consists of two sister chromatids joined at some point along the length. This point of attachment is called centromere, and it appears as a small constricted region (A human chromosome showing the chromatids and the centromere (constructed part)
+I GON THE BEENING.
+After the completion of cell division, the chromatids (now called chromosomes) decondense and revert to their very long and fine thread-like chromatin fibres. There would be as many chromatin fibres inside the nucleus as the number of chromosomes that appear during cell division.
+One vertical half of a duplicated chromosome is called a chromatids. Two identical chromatids that are joined by a centromere are called sister chromatids which eventually get separated during anaphase.
+Functions of Centromere:
+- It serves to attach the chromosomes with
+spindle fibres during cell division.
+- It also helps to detach the sister chromatids of
+(explained later in section 2.8.1).

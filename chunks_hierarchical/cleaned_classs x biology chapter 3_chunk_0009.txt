@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0009
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.6 CHROMOSOMES  CARRIERS OF GENES'}
+-------------------- CONTENT --------------------
+
+- GENES are the specific parts (DNA segments) of a
+chromosome, which determine the hereditary characteristics
+- According to the latest findings there are nearly 19,000 genes
+in humans. Chromosome No. 1 has the largest number of
+genes (2968) and chromosome Y has the fewest (231). - GENOME is the full complement of DNA (including al
+genes and the intergenic regions) of an organism.!Figure(figures/classs x biology chapter 3_page_004_figure_018_error.png)
+Son or Daughter? All eggs are alike (each with one X-chromosome), but sperms are either with X- or with Y-chromosome (50% of each kind). The type of sperm that fertilises the egg determines whether the child will be male or female.

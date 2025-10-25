@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0016
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.8 CELL DIVISION'}
+-------------------- CONTENT --------------------
+
+There are two types of cell divisions:
+1. Mitosis: Cell division leading to the production of diploid cells for growth and development. 2. Meiosis: Cell division leading to the production of haploid cells or gametes (sperms or egg). 2.8.1 MITOSIS (mitos: thread, referring to chromatin thread)
+MITOSIS is the cell division in which one parent cell divides into two identical daughter cells. The most important aspect of mitosis is that the
+same normal chromosome number is maintained at each cell division. Phases of mitosis: Mitosis is completed in two steps: Karyokinesis and Cytokinesis. Karyokinesis (Division of nucleus
+Karyokinesis of mitosis occurs in four main phases although each of these phases merges into the next phase thereby making it a continuous process. The four phases of mitosis are:
+(i) Prophase (ii) Metaphase
+(iii) Anaphase (iv) Telophase
+By and large, the four phases of mitosis are similar in both animal and plant cells. However, we are
+Structure of Chromosomes, Cell Cycle and Cell Division
+First describing the `mitotic stages in an animal cell Figure 2.10 illustrates these stages in animal and plancells side by side.

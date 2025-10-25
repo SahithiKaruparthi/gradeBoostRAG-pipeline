@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0024
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.11 MENDELS EXPERIMENTS ON INHERITANCE'}
+-------------------- CONTENT --------------------
+
+This consisted of the following:
+Phenotypic (visible feature) ratio = 3:1 (three axillary and one terminal) Genotypic (gene feature) ratio = 1:2:1 (one AA, two Aa and one aa) CASE 2: Pure tall (TT) pea plants were crossed with dwarf (tt) plants and the progenies in the F1 and F2 generation were obtained as follows:!Figure(figures/classs x biology chapter 3_page_010_figure_007_error.png)
+CASE 3: Similarly, on crossing the plants grown from pure round (RR) seeds with plants grown from pure wrinkled (rr) seeds, the results were as given below:!Figure(figures/classs x biology chapter 3_page_010_figure_009_error.png)
+In all the above three cases, the monohybrid ratios are same:
+Phenotypic ratio 3:1
+Genotypic ratio 1:2:1
+Some of the generalized principles based on the above breeding experiments were as follows:
+1. Each pair of contrasting characters depends a pair of genes. 2. Each individual carries such genes in dup-
+3. An individual produces gametes (sex cells) which have only one member of a pair of genes. 4. Fertilization of the gametes restores the duplicate condition of the genes. 5. Sex cells with respect to the genes they contain, get fertilised at random.

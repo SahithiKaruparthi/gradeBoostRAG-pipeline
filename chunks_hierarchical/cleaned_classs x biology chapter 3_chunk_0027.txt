@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0027
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': "Application of Mendel's laws"}
+-------------------- CONTENT --------------------
+
+(i) A knowledge of the basic Mendelian principles gives us an idea about the new combinations in the progeny of hybrids and enables us to predict their frequency.
+(ii) Such information is of great importance to both plant and animal breeders for producing better breeds.
+Genetics - Some Basic Fundamentals
+33!Figure(figures/classs x biology chapter 3_page_012_figure_000_error.png)
+Diagrammatic representation of Mendel's result obtained by crossing tall plants with dwarfs of garden pea
+(iii) New types of plants with new combinations useful characters can be produced by hybridisation.

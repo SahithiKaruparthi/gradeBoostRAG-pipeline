@@ -1,0 +1,28 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0013
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.9 FROM PARENTS TO CHILDREN  TONGUE ROLLING  AN EXAMPLE OF INHERITANCE'}
+-------------------- CONTENT --------------------
+
+A pedigree (family) chart showing inheritance of the ability to roll the tongue. (Symbols: O = female
+Observe the following points in the above pedigree (family) chart:
+- Males are shown by squares and females by circles.
+- Both father and mother are tongue rollers (hollow
+symbols represent the usual expressed character).
+- Of the three children born, two can roll (hollow
+symbols) and one cannot (solid symbol).
+- The recessive trait (rr) of non-rolling in one of
+but the parents.
+- The non-roller child in the family chart with
+other parent.
+- Conclusion is that each of the two parents is
+heterozygous (Rr).
+- If, on the other hand, one parent was
+homozygous (similar pair RR) dominant and the
+other heterozygous (dissimilar pair Rr) dominant,
+- parent through the sex cells. The situation car
+square (A possible family where both parents are phenotypically similar (tongue rollers) but genotypically dissimilar (one homozygous dominant  RR" and the other heterozygous  Rr). All their children will be tongue rollers.
+CONCEE RIOLOGY!Figure(figures/classs x biology chapter 3_page_007_figure_000_error.png)

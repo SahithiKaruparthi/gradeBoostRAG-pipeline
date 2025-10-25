@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0030
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'RESUME OF THE CHAPTER'}
+-------------------- CONTENT --------------------
+
+- Chromosomes are the carrlers of heredity
+- Y-chromosome is larger than $Y$-chromosome and carries more genes. - The birth of a son or a daughter is just a matter of chance depending on the kind of spontaneous
+Y-bearing) that fertilises the egg (X-bearing). - The XX combination makes a female and the XY makes a male. - Genes are specific DNA segments that control the expression of a character. Every gene has two alternatives: $\ldots, \ldots$
+objects can be super-ruling allele is called dominant and the submissive one is called recessive. - alleles  the slope falling into a point of view, and is not possible to be determined by the same
+criteria for each other. The group contains two types: one-sided or three-sided items that are used as a proxy
+- Genotype is the combination of genes, and phenotype is the expressed character. - Certain disorders are caused by genes located exclusively on X-chromosome (and not on Y), like colour-blindness and
+haemophilia. Mostly, the males only suffer from these as they have single X chromosome and very rarely, the females.

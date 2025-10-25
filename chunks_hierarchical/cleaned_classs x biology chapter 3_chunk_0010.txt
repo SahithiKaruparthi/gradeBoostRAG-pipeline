@@ -1,0 +1,11 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0010
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.7 Genes and their alleles'}
+-------------------- CONTENT --------------------
+
+Normally, every gene has two alternative forms for a character producing different effects. These alternative forms are called the alleles. For example, in the character of tongue rolling (projecting the tongue out of the mouth in the form of a tube), there are two possibilities  either one can roll the tongue or one cannot. Thus there are two alleles of this gene  one for rolling and the other for non-rolling.!Figure(figures/classs x biology chapter 3_page_005_figure_002_error.png)
+Out of the two alleles of a gene, one is dominant (superruling) and the other is recessive (subordinate or submissive). To understand this, again take the same example of tongue rolling. A large number of people can roll their tongue into a tube projecting out of the mouth. Try whether you can do it. Ask your classmates to try the same. Most of them can do it, but a few may not. The gene for tongue rolling is located on a particular pair of chromosomes. Thus every individual has a pair of this gene. It is a rule in genetics to represent the dominant gene by a capital letter, so here  R  for tongue rolling and the recessive gene by the same but small letter like  r  for non-rolling.

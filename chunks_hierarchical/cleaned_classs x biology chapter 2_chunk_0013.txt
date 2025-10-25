@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0013
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.7 CELL CYCLE  Divide, grow and redivide'}
+-------------------- CONTENT --------------------
+
+The interphase itself has three phases  (i) first growth phase, (ii) synthesis phase and (iii) second growth phase. (i) First Growth Phase $\left(G_{1}\right)$  RNA and proteins are synthesised and the volume of cytoplasm increases. Mitochondria (in animal cells) and chloroplasts (in plant cells) divide  these two organelles have their own DNA. In late G 1 phase, all cells must follow one of the two paths. They may either withdraw from the cell cycle and enter a resting phase (R) or start preparing for the next division by entering the next synthesis phase (S). - (ii) Synthesis Phase (S)  More DNA is
+synthesised and the chromosomes are duplicated. - (iii) Second Growth Phase (G 2 )  This is a
+shorter growth phase, in which RNA and proteins
+necessary for cell division continue to be synthesised. enter the dividing phase of the cell cycle. After the
+dividing phase gets completed, the newly formed
+way the cell cycle goes on and on.!Figure(figures/classs x biology chapter 2_page_005_figure_017_error.png)
+2.7.2 Formation of the new DNA
+During the S-phase of the interphase, each DN/
+m rea da Dt str (Ffo re
+(i.e.

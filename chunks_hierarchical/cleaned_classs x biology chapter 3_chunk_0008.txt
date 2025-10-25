@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0008
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.6 CHROMOSOMES  CARRIERS OF GENES'}
+-------------------- CONTENT --------------------
+
+All species have a fixed number of chromosomes. However, the characteristics of species including physical appearance, body functions, behaviour, etc., are not simply the outcome of chromosome number,
+but these are the result of the units called genes which the chromosomes carry. The lion and the cat have the same number of chromosomes (38) yet one is distinct from the other in body size, appearance, colour, behaviour, etc. All such characteristics of an organism are the result of the genes located on the chromosomes
+##? Progress Check
+1. Mention the following
+(i) Total number of pairs of chromosomes i each body cell in humans.................. (i) Number of pairs of autosomes in one cell o humans................................................ row and no son. Does it mean that the husband does not produce Y-bearing sperms? Explain
+The word  gene  was coined by geneticist Wilhelm Johanssen in 1909 to simply describe what parents passed to their offspring, the detailed DNA structure came to knowledge much later.

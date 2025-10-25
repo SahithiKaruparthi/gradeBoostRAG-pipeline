@@ -1,0 +1,17 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0031
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'RESUME OF THE CHAPTER'}
+-------------------- CONTENT --------------------
+
+- As a result of his breeding experiments on garden pea, Mendel discovered three basic laws of heredity  Law of dominance
+Law of segregation and Law of independent assortment. - Mendel crossed two pure breeding varieties of pea plant by taking contrasting traits of one single character (monohybrid
+cross) and contrasting traits of two different characters (dihybrid cross). - When two homozygous pea plants with contrasting traits are crossed, a heterozygous hybrid plant is obtained. This is the
+F1 generation. - When two hybrid plants of $F_{1}$ generation are self-crossed, we obtain the $F_{2}$ generation
+- For a monohybrid cross, Mendel found the phenotypic and genotypic ratios of F2 generation to be 3:1 and 1:2:1
+respectively. - For a dihybrid cross, the $F_{2}$ phenotypic ratio is 9:3:3:1, while the genotypic ratio is complex
+- Mutations are sudden changes in the genes in the progeny. Some mutations can alter certain characters or traits in an
+entire population and such changes can persist for years.

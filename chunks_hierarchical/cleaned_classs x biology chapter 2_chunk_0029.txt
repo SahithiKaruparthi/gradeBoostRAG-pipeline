@@ -1,0 +1,20 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0029
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'B. VERY SHORT ANSWER TYPE'}
+-------------------- CONTENT --------------------
+
+1. Name the following:
+a) The repeating components of each DNA strand lengthwise
+b) The complex structure consisting of DNA strand and a core of histones. c) The type of bond which joins the complementary nitrogenous bases. d) The three components of a nucleotide
+2. Imagine one cell (A) has undergone one mitotic division and another cell (B) has completed its meiotic division. How many daughter cells would the two produce? -ll A
+$\mathrm{dl}$ B
+3. Match the events given in column A with the phase in mitotic cell division in Column B. Column "A"
+(a) Chromosomes get arranged in a horizontal plane at the equator
+(b) Daughter chromosomes move to the opposite poles of a spindle
+(c) Chromosomes become visible as fine long threads. (d) Chromosomes lose their distinctiveness and gradually become transformed into a chromatin network. 4. Fill in the blanks. (a) DNA replicates in the.................. phase of the cell cycle,
+(b) Mitosis occurs in our cells. (c) Meiosis occurs only in cell
+(d) Modern humans have 46 chromosomes. Their sperms and eggs will have............ chromosomes each. (e) During the pairing of chromosomes in meiosis, the......................

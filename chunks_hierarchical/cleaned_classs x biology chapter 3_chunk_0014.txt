@@ -1,0 +1,12 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0014
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'SOME BIOLOGY IN DESIGNING THE WRIST WATCHES!'}
+-------------------- CONTENT --------------------
+
+Most people wear the wrist watch on left hand and only very few on right hand.
+Is it true?
+(Hint: Interpret the position of the knob of the wrist watch and the related human genetic trait).!Figure(figures/classs x biology chapter 3_page_007_figure_006_error.png)

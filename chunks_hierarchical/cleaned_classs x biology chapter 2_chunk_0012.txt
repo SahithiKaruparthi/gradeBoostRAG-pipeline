@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0012
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.7 CELL CYCLE  Divide, grow and redivide'}
+-------------------- CONTENT --------------------
+
+In order for a cell to divide, it must complete several important tasks. The cell must grow, synthesize materials like proteins, RNA, etc., and duplicate its DNA before physically splitting into two daughter cells. Cells perform these tasks in an organized, predictable series of events which is called the cell cycle. The cell cycle is a series of events that take place in a cell leading to the duplication of its DNA and the subsequent division of the cell to produce two daughter cells. A cell cycle consists of two phases:
+- (i) a non-dividing phase called the interphase, and
+- (ii) a dividing phase called the M-phase or simply
+mitosis. 2.7.1 Interphase
+The two daughter cells produced from a mother cell are relatively small, with a full-sized nucleus but relatively little cytoplasm. These cells are said to be in interphase. During this phase, they prepare for
+the next cell division and grow to the same size as their mother cell. Since no change in chromosomes is visible externally during the interphase, formerly it was called the `resting phase' of the cell. But in reality it is not true as the cell is quite active during interphase in synthesising more DNA.

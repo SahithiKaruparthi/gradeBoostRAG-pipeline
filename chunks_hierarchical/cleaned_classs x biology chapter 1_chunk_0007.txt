@@ -1,0 +1,29 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0007
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'RESUME OF THE CHAPTER'}
+-------------------- CONTENT --------------------
+
+- Size: Cells are small (microscopic) in size with large
+surface-volume ratio to facilitate greater diffusion of
+substances inward and outward.
+- Shape: Cells have scores of different shapes to suit
+their functions, e.g. guard cells of stomata are bean-
+shaped for closing and opening, WBCs are amoeboid
+to squeeze out of capillary walls, etc.
+- Cell membrane (also called plasma membrane) bounds
+the surface of all living cells. It is semi-permeable,
+preventing others.
+- Cell wall is an extra covering outside the cell membran
+in plant cells. It provides shape and rigidity. It is freel
+permeable and is made up of cellulose.
+- Nucleus is the specialised central part of a cell that
+controls the activities of cells, and contains the
+chromosomes having genes. A cell with its nucleus
+removed dies soon.
+- Cytoplasm is the living part of a cell inside the cell
+membrane but excludes the nucleus. Cytoplasm and
+nucleus together constitute the protoplasm.

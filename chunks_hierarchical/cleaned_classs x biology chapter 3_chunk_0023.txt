@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0023
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.11 MENDELS EXPERIMENTS ON INHERITANCE'}
+-------------------- CONTENT --------------------
+
+Out of these, the one with terminal flowers (aa) in subsequent (self-pollinated) generation produced all plants with terminal flowers only. Out of the other remaining three with axillary flowers:
+- One (AA) produced all plants with axillar
+- Two (Aa) again produced in the same ratio 3:
+as was in F, generation.!Figure(figures/classs x biology chapter 3_page_010_figure_003_error.png)
+Crossing of garden pea bearing termina flowers with pea bearing axillary flowers through two generations (F, and F,)
+This kind of ratio obtained by crossing for two different traits of a single character is known as monohybrid ratio.

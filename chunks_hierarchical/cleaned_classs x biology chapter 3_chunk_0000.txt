@@ -1,0 +1,21 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0000
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'In the Chapter'}
+-------------------- CONTENT --------------------
+
+Syllabus: Genetics: Mendel's laws of inheritance and sex-linked inheritance of diseases.
+- The three laws of Mende
+- Monohybrid cross  phenotype and genotype
+- Dihybrid cross  only phenotype.
+- The following terms to be covered: gene,
+allele, heterozygous, homozygous, dominant,
+recessive, mutation, variation, phenotype,
+genotype.
+- Sex determination in human beings
+- Sex-linked inheritance of diseases to include
+only X-linked haemophilia and colour blindness
+Whenever a child is born the family members usually start comparing the child's appearance as to whom he/she resembles more. All this, although a matter of chance, is governed by certain laws. This chapter presents some fundamentals of Genetics including Mendel's laws of inheritance as envisaged in the syllabus. In order to properly understand Mendel's laws of inheritance and the sex-linked inheritance, it is essential to know beforehand, some basic aspects of genetics. You will learn about the chromosomes, the genes and some very common hereditary traits in humans. You can do several investigatory projects, if desired.

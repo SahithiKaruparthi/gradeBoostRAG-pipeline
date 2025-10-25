@@ -1,0 +1,31 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0026
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Review Questions', 'h3': 'A. MULTIPLE CHOICE TYPE'}
+-------------------- CONTENT --------------------
+
+(Choose the best option out of the four alternatives a, b, c and d)
+1. The chromatin material is formed of
+(a) DNA only (b) DNA and Histone
+(c) Histones only (d) Nucleotide
+2. The term  chromosomes" literally means
+(a) Inherited bodies (b) Twisted threads
+(c) Coloured bodies (d) Shining threads
+3. The number of chromosomes in a certain type of cell division is halved. This kind of cell division occurs in
+(a) only testis (b) only ovary
+(c) both ovary and testis (d) all body cells
+4. Synthesis phase in the cell cycle is called so for the synthesis of more of
+(a) RNA (b) RNA and protein (c) DNA (d) Glucose
+5. In which one of the following options the stages of mitosis have been given in correct sequence? (a) Prophase, metaphase, telophase, anaphase
+(b) Prophase, metaphase, anaphase, telophase
+(c) Anaphase, telophase, prophase, metaphase
+(d) Telophase, anaphase, prophase, metaphase
+6. The new cells are to be produced for all except:
+(a) Growth (b) Movement (c) Repair (d) Replacem
+7. The chromosomes are duplicated in:
+(a) M phase (b) $G_{1}$ phase
+(c) S phase (d) G, phase
+s.

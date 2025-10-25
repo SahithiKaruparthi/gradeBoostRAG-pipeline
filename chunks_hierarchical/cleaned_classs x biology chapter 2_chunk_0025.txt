@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0025
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'RESUME OF THE CHAPTER'}
+-------------------- CONTENT --------------------
+
+(a) Karyokinesis occurs in four steps: (i) Prophase (ii) Metaphase (iii) Anaphase (iv) Telophase
+b) Cytokinesis: In animal cells: by deepening of a furrow that splits the original cell into two with one nucleus in each. In plant cells, a cell plate appearing at the centre of the middle grows up to the periphery. - During meiosis, the chromosome number is reduced to half (n) resulting in sex cells, so that on their fusion (fertilisation),
+the normal (2n) number is restored. - Mitosis is followed by an interphase which consists of G1 (first growth phase), S (synthesis phase, more DNA synthesised)
+and G2 (second growth phase) which may again be followed by mitosis. - Meiosis involves two divisions. In the first division, the chromosomes arrange in homologous pairs (2n) and then they
+separate to reduce the number to half (n) in the resulting cells. -  Meiosis also involves crossing over between chromatids of homologous pairs that form the basis of variations.

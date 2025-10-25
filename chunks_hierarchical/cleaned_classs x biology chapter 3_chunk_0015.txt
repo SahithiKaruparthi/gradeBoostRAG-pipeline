@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0015
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'SOME BIOLOGY IN DESIGNING THE WRIST WATCHES!', 'h3': 'ATTACHED OR FREE EAR LOBES'}
+-------------------- CONTENT --------------------
+
+Can you try to explain the inheritance of the character of Free or Attached Ear lobes. Given alongside are pedigree charts of two families A and B. In family A, both parents have free ear lobes and those of family B, have attached ear lobes (Recollect from previous example what the symbols of circle and square, indicate).!Figure(figures/classs x biology chapter 3_page_007_figure_009_error.png)
+Can you find answers to the following? 1. What is the difference indicated by
+- (i) Squares and circles
+- ii) Solid symbols and hollow symbols? 2. Which trait  free ear lobe or the attached ear lobe is dominant? 3. Family B has all children of one type only whereas family A has both types. Parents in which family are heterozygous for the character?!Figure(figures/classs x biology chapter 3_page_007_figure_017_error.png)
+An extreme case of polydactyly  THE LATEST WORLD RECORD. 15 Month old Akshat from Bareilly, Uttar Pradesh, with 7 fingers in each hand and 10 toes in each foot (thus 34 digits in all). He was successfully operated at AIIMS, New Delhi in June/July 2011; to remove the extra digits and reshaping a few of them both in hands and feet. Can you describe the situation here too?

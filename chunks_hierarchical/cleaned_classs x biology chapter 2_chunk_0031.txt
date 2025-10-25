@@ -1,0 +1,26 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0031
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'C. SHORT ANSWER TYPE'}
+-------------------- CONTENT --------------------
+
+1. Name these
+(a) Two main constituents of chromatin
+(b) Two kinds of Nucleic acids
+(c) Three components of a Nucleotide
+(d) Four Nitrogenous bases
+(e) Two kinds of Nitrogenous bases
+(f) Two components of Nucleosome
+(g) Two kinds of Cell divisio (h) Four main phases of Kar
+(i) Two steps of the process Mitosis
+(j) Two kinds of haploid cells of human bod
+2. What are the rungs of the "DNA ladder" made of?
+3. Correct the following statements for mistakes, if any.
+(a) The four nitrogenous bases in the DNA are Guanine, Thiamine, Adrenaline and Cytosine.
+(b) Genes are specific sequences of bases on a chromosome.
+(c) A nucleotide is composed of a sulphate, a sugar (pentose) and a nitrogenous base.
+(d) Nucleosomes are groups of cysteine molecules surrounded by DNA strands.
+(e) If there are 46 chromosomes in a cell, there will be 23 chromatin fibres inside the nucleus during interphase.

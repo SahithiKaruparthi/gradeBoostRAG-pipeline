@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0018
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.8 CELL DIVISION'}
+-------------------- CONTENT --------------------
+
+The naturally occurring cells may be oriented in all possible directions (refer Fig. in box, pg. 16). (ii) Metaphase (meta: after) (up, back) (end) (nucleus). Karyokinesis is followed by the division of cytoplasm (cytokinesis). 2.8.2 Differences in Mitosis in Animal cells and Plant cells
+The nuclear and chromosomal events of mitosis in plant cells are the same as those in animal cells (Advancing condensation of chromatin network into chromosomes. 3  Cell in metaphase stage: Chromosomes arranged at equator. 4  Cell in anaphase stage: Chromosomes start getting pulled to the poles. 5  Cell in telophase stage: Chromosomes reach the "poles" and nucleus is being formed. 6- Young cells formed after division
+2.8.3 Significance of Mitosis
+1. Growth or increase in the body size due to formation of new cells in the tissues. 2. Repair of damaged and wounded tissues by renewal of the lost cells. 3. Replacement of the old and dead cells such as the replacement of the blood cells and the epidermal cells of the skin. Table 2.1 Differences between mitosis in animal cell and plant cell Mitosis in animal cells Mitosis in plant cells
+1. Asters are formed
+2. Cytokinesis by furrowing of cytoplasm.

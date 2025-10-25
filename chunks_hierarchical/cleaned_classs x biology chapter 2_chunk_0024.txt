@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0024
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'RESUME OF THE CHAPTER'}
+-------------------- CONTENT --------------------
+
+- Chromosomes are formed of very long fine chromatin fibres, which are made of DNA (about $40 \%$ ) and histones (about 60\%). - Nucleosomes are groups of histone molecules surrounded by DNA strands. - Each DNA strand is composed of repeating nucleotides, each of which is made up of a phosphate, pentose sugar and a
+nitrogenous base. The four nitrogenous bases are guanine, thymine, adenine and cytosine. During replication, the DNA double helix opens at one end and new strands are formed on the original separating strands. - Genes are specific sequences of nucleotides, which regulate the body features. - New cells need to be produced for growth, replacement, repair and reproduction
+- Two types of cell division - mitosis (for growth and repair) and meiosis (for sexual reproduction). - Mitosis involves duplication of chromosomes and their equal distribution in the daughter cells. The normal chromosome
+number is maintained in all cells. - Mitosis occurs in two phases (a) Karyokinesis (nuclear changes) and (b) Cytokinesis (division of cytoplasm).

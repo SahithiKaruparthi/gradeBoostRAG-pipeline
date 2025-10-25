@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0000
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': 'In the Chapter'}
+-------------------- CONTENT --------------------
+
+Syllabus: Cell Cycle and Cell Division. Structure of chromosome. Scope of Syllabus: Cell cycle  Interphase (G, S, G2) and Mitotic phase
+- Mitosis and its stages. - A basic understanding of Meiosis as a reduction
+division (stages not required). - A brief idea of homologous chromosomes and
+crossing over leading to variations. - Significance and major differences between
+Basic structure of chromosome with elementary understanding of terms such as chromatin, chromatids, gene structure of DNA and centromere. Cell division is one of the most fundamental characteristics of life. This is the method which enables life to perpetuate generation after generation. This is equally true in the case of the simplest organisms like amoeba as is in the highly complex ones such as ourselves or the giant sized elephants or the tall coconut trees. The most conspicuous events occurring during cell divisions are all related to chromosomes. The duplicated chromosomes get evenly distributed into the daughter cells during mitosis. Thus, all body cells that are the result of a long chain of repeated mitotic divisions, have the same type of chromosomes in the same number.

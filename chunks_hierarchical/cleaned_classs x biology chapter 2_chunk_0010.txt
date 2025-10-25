@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0010
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.6 NEED FOR NEW CELLS'}
+-------------------- CONTENT --------------------
+
+New cells need to be produced for (1) growth (2) replacement, (3) repair and (4) reproduction.. For growth: Most organisms, including plants and animals, begin their life as a single cell (the fertilized egg, i.e. zygote). This cell divides repeatedly to form a cluster of cells which start shaping for different functions to form tissues and organs. Thus, cell division is essential for growth. A 4-day-old human embryo containing 16 ells, resulting from four cell divisions 1  2 = 2; 2  2 = 4; 4  2 = 8; 8  2 = 16. As they multiply, they specialise to form the tissues and organs of the body. 2. For replacement: There is always a wear and tear of cells during the normal body functions. For example, 2 million red blood cells in our body are destroyed every second. These are replaced by new cells formed through a division of their parent cells in the bone marrow. In plants, the old and dried leaves fall off and new ones grow out. 3. For repair: Apart from normal wear and tear of the tissues in the body, there may be accidental injuries. One may get cuts in the skin or fractures in the bone.

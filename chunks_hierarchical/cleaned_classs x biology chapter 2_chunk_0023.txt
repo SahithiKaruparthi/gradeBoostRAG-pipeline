@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0023
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'MITOCHONDRIA AND CHLOROPLASTS IN CELL DIVISION', 'h3': '2.9 MEIOSIS (Reduction division producing gametes)'}
+-------------------- CONTENT --------------------
+
+That is how the children of the same parents, howsoever similar, are different from each other in certain respects. Homologous chromosomes, crossing over and variations will be discussed later in detail in chapter 3. YOU'RE HONNAHLY-N

@@ -1,0 +1,11 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0008
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.5 What are genes?'}
+-------------------- CONTENT --------------------
+
+Genes are specific sequences of nucleotides on a chromosome, that encode particular proteins which are expressed in the form of some particular feature of the body. They are the units of heredity which are transferred from parents to offsprings and are responsible for some specific characteristics of the offspring. Lots of regions in between genes are just non functional. Such areas (about 99 percent of the total DNA) show tremendous variations from person to person and help in identification of the individual by what is popularly known as DNA fingerprinting. DNA fingerprinting is useful in establishing paternity and maternity in criminal cases. Blood or semen stains, hair, or items of clothing found at the site of crime provide biological evidence through DNA fingerprinting.!Figure(figures/classs x biology chapter 2_page_004_figure_010_error.png)
+1. chromatin fibre is made up of DNA and......... 2. The two sister chromatids of a chromosome are attached to each other at.................. 3. The structure of DNA was first discovered by... 4. The three components of a nucleotide are.............................. and..................... 5.

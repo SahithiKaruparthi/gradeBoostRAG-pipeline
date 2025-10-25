@@ -1,0 +1,33 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0032
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'D. DESCRIPTIVE TYPE'}
+-------------------- CONTENT --------------------
+
+- (a) Chromosome
+- (c) Cell division (d) chromatids
+- (c) Aster
+2. Give reason
+- (a)
+reproduction.
+- (b) Why is meiosis referred to as 'reductional division'?
+- (c) The children of the same parents, howsoever similar,
+are different from each other in certain aspects.
+3. Distinguish between the following pairs:
+- (a) Cytokinesis and Karyokinesis
+- (b) DNA and RNA
+- (c) Nucleosome and Nucleotide
+- (d) Centrosome and Centromere
+- (e) haploid and diploid
+4. Write full form of the following abbreviations:
+- (a) DNA
+- (b) RNA
+5. Given below are the sets of four terms. Choose the odd one and write the category of the remaining terms:
+- (a) Adenine, Guanine, Adrenaline, Thymine
+- (b) Pentose sugar, Histones, Phosphate group,
+- (c) Metaphase, Anaphase, Interphase, Telophase
+(d) G 1 phase, M phase, G 2 phase, S phase
+- (e) Chromoplast, Chromosome, chloroplasts, Leucoplast

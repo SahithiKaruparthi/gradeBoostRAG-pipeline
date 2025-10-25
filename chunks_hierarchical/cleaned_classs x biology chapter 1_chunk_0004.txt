@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0004
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'ORGAN and ORGANELLE'}
+-------------------- CONTENT --------------------
+
+Just as there are organs in the body, so are the organelles inside a cell.
+Just as each body organ performs one or more special functions, each organelle has a specific function in a cell.
+The living parts of a cell which consist of cytoplasm, nucleus and other living bodies are collectively called protoplasm or protoplast. The latter term protoplast is more appropriately used for a plant cell after the removal of cell wall. The living bodies called organelles are the same in both plant and animal cells except for the cell wall and chloroplasts present in plant cells only and centrosome with centrioles present in animal cells only. The various organelles are: Nucleus, nucleolus, mitochondria, endoplasmic reticulum, ribosomes, Golgi bodies, lysosomes. The non-living parts of a cell, i.e. vacuoles and granules, are called as cell inclusions.
+Table 1.1 Parts of a cell with their main characteristics and chief functions
+Table 1.2 Differences between Plant Cells and Animal Cells

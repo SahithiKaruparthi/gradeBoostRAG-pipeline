@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0025
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.11 MENDELS EXPERIMENTS ON INHERITANCE'}
+-------------------- CONTENT --------------------
+
+Dihybrid ratio gives us the breeding results with two pairs of contrasting characters. Mendel tried several combinations. One such combination was the crossing of a variety with round and yellow seeds with another variety having wrinkled and green seeds.!Figure(figures/classs x biology chapter 3_page_011_figure_005_error.png)
+The ratio is 9:3:3:1
+The above results from parents to $F_{1}$ and then to $F_{2}$ can be easily understood from the following:!Figure(figures/classs x biology chapter 3_page_011_figure_008_error.png)
+Thus, the two kinds of ratios in the two kinds of hybridisations are as follows:
+Monohybrid ratios in $F_{2}$ generation
+Phenotypic ratio 3:
+Genotypic ratio  1:2:1
+Dihybrid ratios in $F_{2}$ generation
+Phenotypic ratio  9: 3: 3: 1
+Genotypic ratio  (very complex)

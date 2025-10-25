@@ -1,0 +1,17 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0035
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'C. SHORT ANSWER TYPE'}
+-------------------- CONTENT --------------------
+
+1. Rewrite the correct form of the statement by changing the first or the last word only: (a) Duplicated chromosomes remain attached at a point
+(b) The full complement of DNA of an organism is termed as genetics.
+(c) The inheritable feature of an organism is termed as heredity
+(d) Terminal flower position is a dominant trait of pea
+(c) Alternative forms of a gene are called traits.
+2. Among lion, tiger and domestic cat, all the three have the same number of 38 chromosomes, yet they have different appearances. How do you account for such differences?
+3. List any three features of garden pea with their dominant and recessive traits.
+4. Explain why generally only the male child suffers from colour blindness and not the female?

@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0002
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.1 WHAT ARE CHROMOSOMES?'}
+-------------------- CONTENT --------------------
+
+When a normal unstained living cell is observed under a light microscope, its nucleus may not appear to contain any particular thing inside. But when the same cell is stained with suitable dyes, several structures become noticeable in the nucleus.
+The nucleus contains most of the cell's DNA which is organized into discrete units called chromosomes. Each chromosome contains one long DNA molecule associated with many proteins. This complex of DNA and proteins is called the chromatin. When a cell is not dividing, the chromatin under an electron microscope appears to be in the form of a very long and extremely thin darkly stained fibre.
+However as a cell prepares to divide, the chromatin fibres coil and condense further, eventually becoming thick enough to be distinguished as separate chromosomes (coloured, soma; body).
+Chromosomes are highly coiled, ribbon-like structures formed by the condensation of chromatin fibres during cell division.

@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0001
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'In the Chapter', 'h3': '3.1 WHAT IS GENETICS?'}
+-------------------- CONTENT --------------------
+
+Genetics is the study of heredity i.e. transmission of body features (both similarities and differences) from parents to offspring and the laws relating to such transmission

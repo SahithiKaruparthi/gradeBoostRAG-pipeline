@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0017
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'SOME BIOLOGY IN DESIGNING THE WRIST WATCHES!', 'h3': '3.10 SEX-LINKED INHERITANCE'}
+-------------------- CONTENT --------------------
+
+Sex-linked inheritance is the appearance of a trait which is due to the presence of an allele exclusively either on the X chromosome or on the Y chromosome.
+X' linked inheritance:
+Certain disorders caused due to heredity such as haemophilia and colour-blindness are more common in males than in females. Such defects are due to recessive genes, which occur on the `X' chromosome. Colour blindness is an inherited disease due to which affected individuals cannot differentiate between certain colours, mostly red and green. (You can check if you are normal or colour blind by reading the numbers given in the three coloured circles in the chapter `Sense Organs '. If you can see them, you are normal otherwise colour blind as in fourth circle).
+Haemophilia is a genetic disorder in which the sufferers (homozygous recessive female and the recessive X-bearing male) are at a risk of bleeding to death because the blood fails to clot in them. Rare cases of haemophiliac males do occur but practically none of haemophiliac females.
+The following cases explain the sex-linked (X-chromosome linked) inheritance of colourblindness (or haemophilia) in humans.

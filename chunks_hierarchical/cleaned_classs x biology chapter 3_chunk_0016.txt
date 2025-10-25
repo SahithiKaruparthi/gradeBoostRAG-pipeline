@@ -1,0 +1,12 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0016
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'SOME BIOLOGY IN DESIGNING THE WRIST WATCHES!', 'h3': 'ATTACHED OR FREE EAR LOBES'}
+-------------------- CONTENT --------------------
+
+- POLYDACTYLY (6 Fingers
+NORMAL (PENTADACTYLY) (5 Fingers)!Figure(figures/classs x biology chapter 3_page_007_figure_023_error.png)
+ienetics - Some Basic Fundamentals

@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0038
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'E. STRUCTURED/APPLICATION AND SKILL', 'h3': 'OFFSPRING (MALE)'}
+-------------------- CONTENT --------------------
+
+OFFSPRING (FEMALE)
+(a) Can you tell which coat colour (black or white) is dominant?............................................................... (b) Is the coat colour sex-linked? 3. Make a Punnett square and find out the genotypic and phenotypic ratios of F 2 generation in the progeny of a genetic cross between:
+(a) A pure tall (TT) pea plant with a pure dwarf (tt pea plant. (b) Red flower variety of pea (RR) with white flowet variety of pea (rr). 4. Mendel crossed a homozygous pea plant having round seeds (RR) with a homozygous pea plant having wrinkled seeds (rr). He got different results. On the basis of it, answer the following questions:
+(a) Which character of seed is studied in the experiment
+(b) Which of the above two traits is dominant? (c) Write the phenotype and genotype of $F_1$ offsprings. (d) Mention and state the Mendel's law shown in th
+(e) Make a Punnett square for $F_{2}$ generation when two plants of $F_{1}$ offspring are crossed with each other. (f) Write the phenotypic ratio of $F_{2}$ progeny. (g) What will be the genotypic ratio of $F_{2}$ off:
+(h) What are the two traits of seed colour? Also mention which is dominant and recessive?

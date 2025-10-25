@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0006
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'ORGAN and ORGANELLE', 'h3': '1.8 THE NUCLEUS  KEY TO THE LIFE OF A CELL'}
+-------------------- CONTENT --------------------
+
+Although every part of a cell contributes to the life of the cell as a whole, yet the key performer or the master of each cell is the nucleus. This can be easily understood by an experiment performed on Amoeba (An experiment on amoeba to show that nucleus is essential for normal life
+f the nucleus from another amoeba is transplanted in an enucleated amoeba, the recipient survives and divide while the donor (enucleated) amoeba dies.
+Every activity of the body of an organism is carried out by cells. But each kind of cell it specialized for a particular function.
+CONCINE BIOLOGY -- X
+Shown below are some of the cell organelles. Can you identify these?!Figure(figures/classs x biology chapter 1_page_008_figure_001_error.png)

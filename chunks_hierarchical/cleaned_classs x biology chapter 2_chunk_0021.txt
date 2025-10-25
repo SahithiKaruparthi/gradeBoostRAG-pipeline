@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0021
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'MITOCHONDRIA AND CHLOROPLASTS IN CELL DIVISION', 'h3': '2.9 MEIOSIS (Reduction division producing gametes)'}
+-------------------- CONTENT --------------------
+
+Meiosis ( meion = to lessen, referring to the reduction of the chromosome number) is the kind of cell division that produces the sex cells or the gametes. It takes place in the reproductive organs ( testis and ovary ) in humans to produce sperms and ova. In the flowering plants, it takes place in the anthers and the ovary to produce pollen grains and ovules. The most significant aspect of meiosis ( meiosis: diminution) is that the number of chromosomes in the sex cells is halved. For example, out of the 23 pairs of chromosomes in humans, only single chromosomes i.e. one member of each pair (haploid) are passed on to the sex cells. This is essential because when the male and female gametes fuse during fertilisation, the normal double (diploid) number of chromosomes (in pairs) is reacquired. The diploid number, as a rule, is expressed as 2n and the haploid number as n.!Figure(figures/classs x biology chapter 2_page_010_figure_010_error.png)
+Structure of Chromosomes, Cell Cycle and Cell Division
+1!Figure(figures/classs x biology chapter 2_page_011_figure_000_error.png)
+More about meiosis: As per scope of syllabus, the stages of meiosis are not required.

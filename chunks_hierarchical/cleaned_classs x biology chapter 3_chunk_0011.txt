@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0011
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.7 Genes and their alleles'}
+-------------------- CONTENT --------------------
+
+Thus, a recessive gene is one which, in the presence of the contrasting (dominant) gene, is not expressed. ALLELES: Alternative forms of a gene, occupying the same position (locus) on homologous chromosomes and affecting the same characteristic but in different ways. A pair of chromosomes showing four imaginary genes A, B, C, and D. The situations depicted here are:
+(i) AA is homozygous (similar) dominant pair,
+(ii) bb is homozygous (similar) recessive pair and
+(iii) Cc and dD are heterozygous (dissimilar) pairs
+Dominant Allele: The kind of allele which expresses itself regardless of the presence of another allele/s for a given gene. e.g. The dominant allele for height in garden pea is tall. Recessive Allele: The kind of allele whose expression is suppressed in presence of a dominant allele for a given gene. A recessive allele can only express itself in presence of the same recessive allele. e.g. The recessive allele for height in garden pea is dwarf. Remember - The chromosome as a whole can neither be dominant nor recessive.

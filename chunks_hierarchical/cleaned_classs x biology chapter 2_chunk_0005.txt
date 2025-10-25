@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0005
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.3 chromatin'}
+-------------------- CONTENT --------------------
+
+An individual nucleosome can be imagined like a football, around which a long rope is wound with one or two loops. A single human chromosome may have about a million nucleosomes! Structure of Chromosomes, Cell Cycle and Cell Division
+Each human cell contains approximately 2 meters of DNA if stretched end-to-end. However, the nucleus of a human cell is only about 6 m m in diameter. Therefore, the DNA needs to be condensed in order to fit inside the nucleus. The entire chromatin fibre is coiled and super-coiled something like the coils and supercoils we see in a typical telephone cord to eventually form chromosomes. Figure 2.5 shows a highly diagrammatic representation of the sequential condensation of a DNA strand into chromatin fibre and eventually to a chromosome.!Figure(figures/classs x biology chapter 2_page_003_figure_002_error.png)
+- Kinds of Nudeic Acids:
+- 1. DNA
+- Components of chromatin:
+- 1. DNA
+- 2.

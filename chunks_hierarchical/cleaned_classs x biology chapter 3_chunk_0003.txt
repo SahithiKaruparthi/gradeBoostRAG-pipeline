@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0003
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'In the Chapter', 'h3': 'GREGOR MENDEL  and Father of Genetics'}
+-------------------- CONTENT --------------------
+
+The insulin producing gene of mammals has been
+Genetics - Some Basic Fundamentals
+successfully introduced in certain bacteria which have been made to produce it. Genetic counselling is yet another practical aspect. Newly married couples are advised to consult a specialist regarding the possibilities of any undesirable trait which their children might inherit. Diseases like haemophilia (bleeder's disease with a tendency to bleed freely from even a slight wound), thalassaemia and sickle cell anaemia with defective haemoglobin are examples of genetic diseases which can be prevented to some extent by proper genetic matching of the prospective parents. The term heredity may be defined as  transmission of genetically based characteristics from parents to offspring", or  the genetic constitution of an individual". - Cats produce cats and not dogs
+- A mango seed germinates into a mango tree. - Humans give birth only to humans and not to apes. - Even the curd bacteria which grow in milk
+undergo hundreds of generations each day, and
+and not of any different type. All organisms  whether animals, plants or microorganisms, produce their own kind through reproduction.

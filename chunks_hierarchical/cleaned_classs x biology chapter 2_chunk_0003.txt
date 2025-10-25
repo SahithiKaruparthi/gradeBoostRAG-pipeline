@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0003
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.2 Discovery of chromosomes'}
+-------------------- CONTENT --------------------
+
+Chromosomes in animals were first studied in 1882 by a German Scientist, Walther Flemming. He noticed these in the rapidly dividing cells of the larvae of salamander (an amphibian). The microscope he used was of old type and through it, he saw minute threads that appeared to be dividing lengthwise. Flemming called their division mitosis (literally meaning  thread"). Subsequently, with the help of
+YUNCHE BIRDGEY - X!Figure(figures/classs x biology chapter 2_page_002_figure_000_error.png)
+Condensation of chromatin fibres into chromosomes during cell division (mitotic prophase phase - explained later in the chapter)
+more powerful microscopes and by using special techniques, the chromosomes and their constituents have been studied in great detail.

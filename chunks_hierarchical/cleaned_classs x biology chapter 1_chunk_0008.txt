@@ -1,0 +1,35 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0008
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'Review Questions', 'h3': 'A. VERY SHORT ANSWER TYPE'}
+-------------------- CONTENT --------------------
+
+1. Identify the cellular structures with the help of the following clues:
+(a) It synthesizes the respiratory enzymes
+(b) It is made up of lipoproteins
+(c) A non-living rigid layer surrounding the plasma membrane.
+(d) Supportive framework for the cell
+(e) It consists of cisternae, vesicles and vacuoles.
+(f) It destroys foreign substances.
+(g) It gives turgidity to the plant cells.
+(h) It is made up of DNA threads.
+(i) It contains chromatin fibres.
+(j) It initiates and regulates cell division.
+2. Give two examples of each
+(a) Unicellular animals (b) Unicellular plants
+(c) Cell organelles (d) Cell inclusions
+(e) Stains which make the nucleus distinct
+3. Name the following:
+(a) A plastid without pigment
+(b) A pigment which is not found in plastids.
+(c) The orange-red pigment found in the chromoplast.
+(d) Scattered Golgi complex, found in plant cells.
+(e) Amoeboid blood cells of human body.
+f) The smallest cell of human body.
+g) Bean-shaped cells of stomata
+h) The part of cytoplasm which is devoid of the organelles.
+(i) The folds/finger-like projections from the inner wall of the mitochondria.
+(j) The tubules of Golgi complex.

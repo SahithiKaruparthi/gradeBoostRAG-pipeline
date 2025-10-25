@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0005
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'INHERITANCE IN HUMANS'}
+-------------------- CONTENT --------------------
+
+We inherit thousands of characters from our parents (father and mother) who in turn, had inherited them from their parents. Thus the family members  brothers, sisters, cousins  tend to resemble one another. Here is a list of some such characters and their traits:-

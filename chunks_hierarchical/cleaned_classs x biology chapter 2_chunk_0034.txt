@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0034
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'E. STRUCTURED/APPLICATION/SKILL TYPE'}
+-------------------- CONTENT --------------------
+
+- (d) Name the stage prior to this stage and draw a
+diagram to represent the same. 4. Draw a labelled diagram to show the metaphase stage of mitosis in an animal cell having 6 chromosomes. 5. The diagram given below represents a certain phenomenon which occurs during meiosis. Name and explain the phenomenon by using the terms  homologous chromosomes, chromatids, crossingover. (a) to use of Chromosomes, Cell Cycle and Cell Division!Figure(figures/classs x biology chapter 2_page_015_figure_000_error.png)
+6. Given below is a diagram representing a stage during mitotic cell division in an animal cell. Examine it carefully and answer the questions which follow.!Figure(figures/classs x biology chapter 2_page_015_figure_002_error.png)
+(a) Identify the stage. Give one reason in support of your answer. (b) Name the cell organelle that forms the 'aster
+(c) Name the parts labelled l,2 and
+How is that stage identified? (e) Mention two differences between mitosis and
+(i) The number of daughter cells produced
+(ii) The chromosome number in the daughter cells
+7.

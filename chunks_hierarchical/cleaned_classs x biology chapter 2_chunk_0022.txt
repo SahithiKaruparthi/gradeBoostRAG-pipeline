@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0022
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'MITOCHONDRIA AND CHLOROPLASTS IN CELL DIVISION', 'h3': '2.9 MEIOSIS (Reduction division producing gametes)'}
+-------------------- CONTENT --------------------
+
+However, just to know the basics about it, meiosis is completed in two divisions meiosis I and meiosis II, the first is the reduction division and the second is mitotic division ((i) The maternal and paternal chromosomes get mixed up during the first (reduction) division as they separate from the homologous pairs. (ii) While the maternal and paternal chromosomes are separating, the chromatids material very often gets exchanged between the two members of a homologous pair. This is known as crossing over (as shown in chiasmata) is the X-shaped structure formed due to crossing over between the non-sister chromatids of the paired homologous chromosomes. - Chiasma: The point of attachment between two
+non-sister chromatids of a pair of homologous
+chiasma. It helps in the process of crossing over. - Crossing over: The process of exchange of genetic
+material during meiosis between two non-sister
+is termed as crossing over. This process results in the
+genetic recombination of the offsprings. The mixing up of genes during meiotic division provides for the innumerable variations in the progeny.

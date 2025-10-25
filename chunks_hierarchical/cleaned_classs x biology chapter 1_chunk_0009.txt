@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0009
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'Review Questions', 'h3': 'B. DESCRIPTIVE TYPE'}
+-------------------- CONTENT --------------------
+
+1. Define the following terms
+a) cell
+cytoplasm (d) Protoplasm
+(e) Nucleus
+2. Distinguish between the following pairs:
+(a) Plant cell and animal cell
+(b) Cell wall and cell membrane
+(c) Centrosome and chromosome
+(d) chloroplasts and chromoplast
+oil - The Structural and Functional Unit of Life For Revkdon Only

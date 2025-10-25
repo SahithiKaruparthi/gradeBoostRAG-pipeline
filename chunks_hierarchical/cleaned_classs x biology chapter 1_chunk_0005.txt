@@ -1,0 +1,12 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0005
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'ORGAN and ORGANELLE', 'h3': '1.7 MICROSCOPIC EXAMINATION OF ONION PEEL'}
+-------------------- CONTENT --------------------
+
+The epidermal peel from onion is easy to prepare You can proceed as follows:
+Cut the onion bulb into four pieces (quarters) lengthwise (Preparation of a slide of onion pee
+The cells of onion peel have a somewhat rectangular shape (Cells from a peeling of onion scale leaf as seen under the low power of microscope

@@ -1,0 +1,11 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0037
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'E. STRUCTURED/APPLICATION AND SKILL'}
+-------------------- CONTENT --------------------
+
+1. In a certain species of animals, black fur (B) is dominant over brown fur (b). Predict the genotypic and phenotypic ratios of the offspring when both parents are `Bb' or have heterozygous black fur.
+2. Two pairs (A & B) of rabbits were crossed as given below:!Figure(figures/classs x biology chapter 3_page_014_figure_041_error.png)!Figure(figures/classs x biology chapter 3_page_014_figure_042_error.png)!Figure(figures/classs x biology chapter 3_page_014_figure_043_error.png)

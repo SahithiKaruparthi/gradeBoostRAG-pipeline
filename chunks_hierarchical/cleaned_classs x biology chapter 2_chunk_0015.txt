@@ -1,0 +1,21 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0015
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.7 CELL CYCLE  Divide, grow and redivide'}
+-------------------- CONTENT --------------------
+
+- Epithelial cells lining the gut last only 5 days
+-  Average life of other gut cells is about 15 years
+-  Liver cells are replaced every 1 to 2 years
+- In plants, the cells at the growing points
+(meristems) divide very rapidly and produce new
+leaves, buds and flowers, etc. -  Specialised germinal cells in the ovary and testis
+meiosis to produce sex cells. - Uncontrolled non-stop cell cycles may lead to
+tumours that may or may not be cancerous. - As children we grow, because new cells are
+outnumber the dying cells. - When we are adults, our cell population stays
+constant. The number of new cells produced
+equals the number of cells dying. - As we grow old, the number of new cells
+produced runs short of those that are dying.

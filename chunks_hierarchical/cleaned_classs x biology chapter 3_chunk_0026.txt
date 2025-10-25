@@ -1,0 +1,12 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0026
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': "3.12 MENDEL'S LAWS OF INHERITANCE"}
+-------------------- CONTENT --------------------
+
+Mendels generalizations of the results of breeding experiments are summarised under three laws:
+1. Law of Dominance: Out of a pair of contrasting characters present together, only one is able to express itself while the other remains suppressed. The one that expresses is the dominant character and the one unexpressed is the recessive. The recessive character can express only when the pair consists of both recessives (homozygous recessive).
+2. Law of Segregation (also called the law of purity of gametes): The two members of a pair of factors separate during the formation of gametes. They do not blend but segregate or separate into different gametes (see When there are two pairs of characters, the distribution of the alleles of one character into the gametes is independent of the distribution of the alleles of the other character (as is seen in the production of gametes of the F 1 hybrid in dihybrid cross).

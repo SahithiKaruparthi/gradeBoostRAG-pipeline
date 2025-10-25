@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0004
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.3 chromatin'}
+-------------------- CONTENT --------------------
+
+The chromatin material that constitutes the fibre is formed of two substances: 1. DNA (deoxyribonucleic acid)  about 40%. - 2. Histones (a particular type of protein) - about 6
+(i) Molecular Structure of DNA
+The shape of the DNA molecule was first studied by Rosalind Franklin in 1953. However, the structure was finally worked out by Watson and Crick in the same year. They proposed the doublestranded helical structure of DNA for which they were awarded the Nobel Prize in 1962. A single DNA molecule is very large, and hence it is described as a macromolecule. It is composed of two complementary strands wound around each other in a double helix (Schematic diagram of helical structure of DNA!Figure(figures/classs x biology chapter 2_page_002_figure_014_error.png)
+A  The basic structure of a nucleotide, B  Two parallel strands of a part of DNA
+(ii) Histone proteins
+Histones are the proteins that help in the coiling and packaging of DNA into structural units called nucleosomes. The DNA strand winds around a core of eight histone proteins (called the histone octamer). Each such complex is called a nucleosome.

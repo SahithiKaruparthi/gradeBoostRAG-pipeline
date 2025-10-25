@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0014
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.7 CELL CYCLE  Divide, grow and redivide'}
+-------------------- CONTENT --------------------
+
+the chromosome) duplicates in adiness for their equitable distribution in the two ughter cells during mitosis. For replication, the NA double helix opens at one end, making the two ands free to which new strands begin to form ig. 2.9) and the process continues in a sequence r the whole length of the DNA. The entire plication is a very complicated process which you ill study in detail in higher classes.!Figure(figures/classs x biology chapter 2_page_006_figure_001_error.png)
+ig. 2.9: Replication of DNA
+2.7.3 Can the cell cycle go on endlessly? No! At some places it stops permanently, at some places temporarily and at others till it is needed. There is a regulatory mechanism for cell cycles. -  Cells of the eye lens, brain and other nerve cells of
+replaced. - Skin cells are replaced every two weeks or so. A large
+portion of household dust contains human skin cells. contains some dead cells. - Red blood cells last for about 120 days and are
+replaced. - Bone cells are replaced every 10 years or so in adults.

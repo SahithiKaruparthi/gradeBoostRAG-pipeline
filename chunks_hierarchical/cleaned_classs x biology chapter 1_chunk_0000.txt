@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0000
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'Cell  The Structural and Functional Unit of Life For Revision Only'}
+-------------------- CONTENT --------------------
+
+All organisms, including ourselves, are made of microscopic cells. These cells perform activities which contribute to the overall tasks of an individual. It is also to note that majority of organisms start their life as a single cell. The same cell undergoes repeated divisions to give rise to a large mass of cells. Further, the cells get specialised for various tasks such as those of giving support, producing secretions and carrying out numerous life activities.!Figure(figures/classs x biology chapter 1_page_002_figure_004_error.png)
+1.1 CELLS  A BASIC STUDY IN BIOLOGY
+You have already read about cells in some detail in Class IX. However, it is necessary to refresh your knowledge for a proper understanding of several aspects of biology which specially constitute the Class X syllabus. Some of the main points about cells are as follows:
+- All living beings are made up of cells. - The cell is the structural and functional unit
+of the body. - All cells are basically alike in chemical
+composition and metabolic processes. - All living beings arise from a pre-existing cell
+1.2 CELLS - HOW MANY? Larger an organism, greater the number of cells in its body.

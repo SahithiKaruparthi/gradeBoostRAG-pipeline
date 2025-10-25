@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0017
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.8 CELL DIVISION'}
+-------------------- CONTENT --------------------
+
+Major differences in the mitosis of plant and animal cells have been listed in Table 2.1. i) Prophase (pro: first) (Fig 2.10 A and B)
+1) The chromosomes have become short and thick and are clearly visible inside the nucleus. (2) Each chromosome has already been duplicated (having made its copy), to form two chromatids
+(3) The two sister chromatids remain attached to each other at a small region called centromere
+(4) The centrosome (in animal cell) splits into two along with simultaneous duplication of the centrioles contained in it. The daughter centrioles move apart and occupy opposite  poles" of the cell. Each centriole is surrounded by radiating rays and is termed aster $\left(aster:{\rm star}\right)$. (The animal cells may have either one or two centrioles). (5) A number of fibres appear between the two daughter centrioles, which are called the spindle fibres. (6) The nuclear membrane and the nucleolu disappear. (7) The duplicated chromosomes start movin towards the equator of the cell. Note: "Poles" mean the extremities of an axis, and  equator" means the middle plane dividing the cell into two similar halves.

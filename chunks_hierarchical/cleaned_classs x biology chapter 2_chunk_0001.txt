@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0001
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': 'In the Chapter'}
+-------------------- CONTENT --------------------
+
+This ensures the normal functioning of the cells and through that, the life of the organism. (For a better understanding of cell cycle and cell division, the author has discussed the structure

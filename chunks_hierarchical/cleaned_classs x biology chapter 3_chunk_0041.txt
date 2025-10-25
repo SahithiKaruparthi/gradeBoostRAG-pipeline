@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0041
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'REBIRTH?  AS  CLAIMED BY THE PARENTS'}
+-------------------- CONTENT --------------------
+
+As reported in newspapers, can we call it a case of rebirth of their son who had died exactly 11 months before, or is it simply an excellent example of hereditary similarity?
+A case of one Black and one White twins born to a mixed race darkish mother and a white father (Reported in Times of India, 24th October, 2006).
+- Both are twin sisters, one black and
+one white.
+-  Both are dizygotic (fraternal) twins
+-  One of the genetic probabilities
+could be as follows.
+Skin colour, as we know today, is determined by 3 genes  let us suppose A, B and C.!Figure(figures/classs x biology chapter 3_page_015_figure_039_error.png)
+Two of the several combinations of these genes through the egg and sperm could be as follows:!Figure(figures/classs x biology chapter 3_page_015_figure_041_error.png)
+Genetics - Some Basic Fundamentals

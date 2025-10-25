@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0006
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check'}
+-------------------- CONTENT --------------------
+
+1. Mention if the following statements are True (T) or False (F):
+(ii) Like begets like, this applies only to animals. T/F
+iii) The entire human population shows variations. T/F
+2. Which of the following in humans are established genetic traits? (Tick-mark the correct ones) in the box provided.
+- (i) Capacity to be a good cricketer
+- ii) Curly hair
+- ii) Left-handedness
+- v) Quality of voice
+- v) Red-green colour blindness

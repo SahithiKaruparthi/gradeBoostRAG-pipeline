@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0007
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.3 CHROMOSOMESTHE CARRIERS OF HEREDITY'}
+-------------------- CONTENT --------------------
+
+You have learnt in the previous lesson that chromosomes are only visible when a cell nucleus is about to divide. Photographs of the dividing cell nucleus can be taken through a high power light microscope. These photographs are used for artificially arranging the chromosomes according to their size and shape on a chart. This chart is called a karyotype. The chromosome number is constant for the individuals of a species, and each body cell of that species has the same number of chromosomes. Humans have 46 chromosomes. Chromosome numbers of some other common animals and plants are as follows:
+!Figure(figures/classs x biology chapter 3_page_003_figure_010_error.png)
+Two human male sex chromosomes (X and Y) showing the chromatids and centromere in each
+Look at the above list carefully. In each organism, the chromosomes occur in even numbers. This is so because they always occur in pairs. Thus in humans, the 46 chromosomes are present in 23 pairs (- If the egg (X) is fused by X-bearing sperm, the
+resulting combination is XX, i.e. female constitution
+and the child produced is a female ( Daughter ). If the egg (X) is fused by Y-bearing sperm, the
+- resulting combination is $X Y$, i.e.

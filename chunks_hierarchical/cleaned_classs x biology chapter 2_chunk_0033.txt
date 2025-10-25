@@ -1,0 +1,20 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0033
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'E. STRUCTURED/APPLICATION/SKILL TYPE'}
+-------------------- CONTENT --------------------
+
+1. Given below is a schematic diagram of a portion of DNA.!Figure(figures/classs x biology chapter 2_page_014_figure_028_error.png)
+- (a) How many strands are shown in the diagram? - (b) How many nucleotides have been shown in each
+- (c) Name the parts numbered 1, 2, 3, 4 and 5
+respectively. - (d) Name the DNA unit constituted by the parts 1,
+2 and 3 collectively. 2. The three sketches given below (A, B and C) are intended to represent the replication of DNA. What should be their correct sequence starting with the first and ending with the last?................!Figure(figures/classs x biology chapter 2_page_014_figure_034_error.png)
+4!Figure(figures/classs x biology chapter 2_page_014_figure_036_error.png)
+8!Figure(figures/classs x biology chapter 2_page_014_figure_038_error.png)
+3. The diagram below represents a stage during cell division. Study the same and then answer the questions that follow:!Figure(figures/classs x biology chapter 2_page_014_figure_041_error.png)
+abelled 1, 2 and 3. - (b) Identify the above stage and give a reason to
+support your answer. - (c) Mention the type of cells in our body where this
+type of cell division occurs.

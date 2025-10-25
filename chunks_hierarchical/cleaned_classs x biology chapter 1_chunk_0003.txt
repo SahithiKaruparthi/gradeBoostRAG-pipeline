@@ -1,0 +1,23 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0003
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'Cell  The Structural and Functional Unit of Life For Revision Only', 'h3': '1.5 Gross structure of cell  the three essential parts'}
+-------------------- CONTENT --------------------
+
+1. Cell membrane (or plasma membrane) encircles the cell.
+-  It is a living membrane having fine pores
+-  It is made up of lipoproteins.
+-  It provides flexibility to the cells
+-  It is semi-permeable (also called selectively
+permeable or differentially permeable) meaning
+through while preventing others.
+In a plant cell (Structure of nucleus
+- The ground substance of the nucleus is a semi-
+solid substance (nucleoplasm) containing one
+or more round-shaped nucleoli ( sing. nucleolus).
+- The nucleoplasm contains a network of dark-
+coloured fibres called chromatin fibres. These
+chromosomes (An early stage of cell division in an animal cell showing two pairs of chromosomes that have condensed from the chromatin network, inside the nucleus (diagrammatic). Chromosome number varies from one organism to another.

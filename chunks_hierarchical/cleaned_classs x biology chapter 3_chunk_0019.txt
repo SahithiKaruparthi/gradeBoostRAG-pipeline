@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0019
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'CASE'}
+-------------------- CONTENT --------------------
+
+Heterozygous!Figure(figures/classs x biology chapter 3_page_008_figure_012_error.png)!Figure(figures/classs x biology chapter 3_page_008_figure_013_error.png)
+XX: Daughters - heterozygous dominant, normal vision XY: Normal sons
+None of the children is colour-blind but daughters are carriers (XX) of the defective allele for colourblindness.
+CASE 2

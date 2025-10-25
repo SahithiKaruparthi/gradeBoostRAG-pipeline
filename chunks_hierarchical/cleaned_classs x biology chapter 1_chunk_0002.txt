@@ -1,0 +1,23 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0002
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'Cell  The Structural and Functional Unit of Life For Revision Only'}
+-------------------- CONTENT --------------------
+
+The white (albumen) of the egg and
+the egg-shell are extra parts added on the actual
+egg as it passes down the reproductive tract. 1.4 CELL SHAPES
+Different shapes of cells are often related to the different functions they perform. - Human red blood cells are circular and
+biconcave, for easy passage through blood
+capillaries and to transport oxygen. Cell -- The Structural and Functional Unit of Life (For Revision Only
+1!Figure(figures/classs x biology chapter 1_page_003_figure_000_error.png)
+A generalised animal cell and a generalised plant cell. (Note the parts common to both cells and the parts which are found exclusively in an animal cell or in a plant cell). -  White blood cells are amoeboid (amoeba-like
+movement, with pseudopodia) that can squeeze
+out through capillary walls. -  Nerve cells are long to conduct "impulse
+" from
+distant parts of the body to the brain and vice-versa
+-  Guard cells of stomatal pores in the leaves are
+bean-shaped to open and close it.

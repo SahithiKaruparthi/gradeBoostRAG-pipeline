@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0019
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.8 CELL DIVISION'}
+-------------------- CONTENT --------------------
+
+The furrow starts from the cell membrane which then proceeds to the centre of the cell. 3. Occurs in most tissues throughout the body (for growth and replacement). 4. Spindle fibres are formed with the help of asters and
+1. Asters are not formed
+2. Cytokinesis by cell plate formation. The cell plate is laid down at the centre of the cell which then grows and extends towards the cell membrane. 3. Occurs mainly in the meristematic tissue i.e. at the growing tips (for lengthening) and sides (for increase in girth). 4. Spindle fibres are formed with the help of microtubules
+ONE'S BROLIGN
+4. Asexual reproduction in which the unicellular organisms, such as amoeba or the yeast cell, divide into two. 5. Maintains same chromosome number in daughter cells.

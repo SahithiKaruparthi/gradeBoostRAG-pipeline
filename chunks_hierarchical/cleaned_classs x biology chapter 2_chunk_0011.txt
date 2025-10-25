@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0011
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.6 NEED FOR NEW CELLS'}
+-------------------- CONTENT --------------------
+
+Repair of such injuries is done through cells which divide, cover up the gaps and join the broken ends. In cell divisions for growth, replacement and repair, the number of chromosomes remains the same at each division. The chromosomes duplicate and distribute equally in the daughter cells. This kind of division which occurs in all body cells except in the egg producing oocytes (in ovaries) and sperm producing spermatocytes (in testes), is known as mitosis. 4. For reproduction: Reproduction also takes place through the activity of the dividing cells. Amoeba or bacteria just divide to produce two similar independent cells by mitosis. In higher forms, as in humans, or in the banyan tree, special cells in the reproductive organs undergo a special kind of cell division ( meiosis ) to produce sperms and eggs. The sperms and eggs receive only half the number of chromosomes of their parent cells, i.e., one chromosome from each pair. This reduction in chromosome number is very significant. Look at the following example in humans:

@@ -1,0 +1,42 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0032
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Review Questions', 'h3': 'A. MULTIPLE CHOICE TYPE'}
+-------------------- CONTENT --------------------
+
+(Select the most appropriate option)
+1. Which one of the following is the phenotypic monohybrid ratio in $\mathrm{F}_{2}$ generation? a) 3:1 (b) 1:2:
+c) $2: 2$ (d) 1:3
+2. If a pure tall plant is crossed with a pure dwarf plant, the offsprings will be:
+a) all tall (b) all dwarf
+c) 3 tall l dwarf (d) 50% tall 50% dwarf
+3. The9:3:3:1 dihydrorid ratio is due to:
+a) Segregation (b) crossing ove
+c) independent assortment
+d) homologous pairing
+4. A plant with green pods and smooth seeds with genotype Ggss will give rise to the following gametes:
+(a) Gg and Ss
+b) Gs and ss
+(c) Gs and gs
+d) $\mathrm{Gg}$ and gs
+5. The disease colour blindness is a:
+(a) Recessive X-linked disease
+(b) Dominant Y-linked disease
+(c) Recessive Y-linked disease
+(d) Dominant X-linked disease
+6. The physical expression of a character is called:
+(a) Genotype
+(b) Allele
+(c) Phenotype
+(d) Traits
+7. Purity of gametes is linked to:
+(a) Law of dominance
+(b) Law of independent assortment
+(c) Law of segregation
+(d) Law of limiting factor
+8. The phenotypic dihybrid ratio of $F_{2}$ generation is:
+Genetics - Some Basic Fundamentals
+9.

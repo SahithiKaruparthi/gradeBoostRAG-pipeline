@@ -1,0 +1,17 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0021
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check'}
+-------------------- CONTENT --------------------
+
+1. Write the basic unit of heredity?
+2. Define the following terms:-
+(i) Allele (ii) Dominant gene (iii) Genotype
+(v) Recessive gene
+3. Mention the number of paired homozygous chromosomes in
+(i) Human female (ii) Human male
+4. Can there be a heterozygous recessive? Explain
+5. List any four characters along with their trait in humans which you can easily study just bobserving and making family charts.

@@ -1,0 +1,14 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0035
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'E. STRUCTURED/APPLICATION/SKILL TYPE'}
+-------------------- CONTENT --------------------
+
+Given below are three diagrammatic sketches (A B and C) of one and the same particular phase during mitotic type of cell division.!Figure(figures/classs x biology chapter 2_page_015_figure_011_error.png)
+(a) Identify the phase
+(b) What is the diploid number of chromosomes shn, in them? (c) Identify whether these are animal cells or pl $_{31}$ cells? Give reasons. 8. Shown below are four stages (A, B, C, D) (not i sequence) of a certain kind of cell division.!Figure(figures/classs x biology chapter 2_page_015_figure_019_error.png)
+(a) Is it a plant cell or an animal cell? Give two reason
+(b) Is it undergoing mitosis or meiosis? (c) What should be the correct sequence of these four stages among themselves?.............................. (d) Name the stage that should precede the earliest of these stages............................... (e) Draw the stage named above inside the blank space provided.

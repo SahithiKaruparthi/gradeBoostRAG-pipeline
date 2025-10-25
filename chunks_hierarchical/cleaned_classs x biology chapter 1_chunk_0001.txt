@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 1_chunk_0001
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 1.md
+  Chapter: 1
+  Pages: []
+  Hierarchy: {'h1': 'Chapter 1', 'h2': 'Cell  The Structural and Functional Unit of Life For Revision Only'}
+-------------------- CONTENT --------------------
+
+All living things are made up of microscopic cells. Some living things are formed of just one cell, like
+the bacteria and Amoeba, while large plants and animals are composed of billions of cells. Unicellular organisms: Living organisms made up of only a single cell are called unicellular organisms. Examples: Amoeba, Paramecium, bacteria, Chlamydomonas. Multicellular organisms: Majority of living organisms are made up of millions or billions of cells and are called multicellular organisms. Examples: Volvox, rose, mosquito, mango, humans. An average-sized adult human is composed of approximately:
+- 200 different types of cells
+- 37-2 trillion cells in the whole body. - 100 billion nerve cells in the brain cortex. -  25 trillion red blood cells. 1.3 CELLS  HOW SMALL? Cells are very small and can be seen only with the help of a microscope. -  Smallest cells are certain bacteria, red blood
+cells in the human body, etc. -  Longest cells are the nerve cells
+-  Largest cells are the birds' eggs (actually the central
+yellow sphere). Ostrich egg, before development
+begins in it, is the largest single cell of the living
+world today.

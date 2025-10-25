@@ -1,0 +1,12 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0002
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'In the Chapter', 'h3': 'GREGOR MENDEL  and Father of Genetics'}
+-------------------- CONTENT --------------------
+
+Gregor J. Mendel (1822
+84) was born in a peasant family. He had his early education in a monastery and later he studied Science and Mathematics at University of Vienna. He wanted to be a teacher but luck did not favour him, and he failed in the examination of teaching certificate. But what he discovered later, has made him a teacher of teachers. He had returned to his monastery and spent the rest of his life as an abbot. The monastery had a lovely garden which satisfied his urge to understand some secrets of nature regarding the inheritance of certain features in garden pea. His findings are now called as Mendels laws of inheritance. Mendel - "Father of Genetics"!Figure(figures/classs x biology chapter 3_page_001_figure_020_error.png)
+Genetic engineering is the technique in which the genetic constitution of an organism (bacterium) is altered by introducing new genes into its chromosomes. The genetically modified organism (GMO) thus produced is grown to multiply fast and the gene product is obtained in large quantities. The hormone insulin was the first such product.

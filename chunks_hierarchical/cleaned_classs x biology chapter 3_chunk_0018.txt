@@ -1,0 +1,11 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0018
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'CRISS-CROSS INHERITANCE'}
+-------------------- CONTENT --------------------
+
+(Mother to Son and Father to daughter)
+Inheritance of X-linked genes as in colour blindness and haemophilia is also called criss-cross inheritance. This is because the son may get it from the otherwise normal but carrier mother (as in case 2) and a colour blind father may pass it on to the daughter making her colour-blind if the mother is a carrier. (Refer to case 3, if you have solved it.)

@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0029
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check'}
+-------------------- CONTENT --------------------
+
+1. Who discovered for the first time the basic principles of genetics?
+2. Give the common and scientific names of the organism on which Gregor Mendel had worked.
+3. Distinguish between the following pairs:
+- (i) Monohybrid and Dihybrid cross
+- (ii) Genotype and Phenotype
+- (iii) Character and Trait
+- (iv) Dominant and Recessive Allele
+- (v) Autosomes and Sex chromosomes
+4. Write two characters of pea pod with the alternative traits.

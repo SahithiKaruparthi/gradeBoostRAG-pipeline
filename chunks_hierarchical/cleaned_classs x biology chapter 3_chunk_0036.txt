@@ -1,0 +1,16 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0036
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'D. DESCRIPTIVE TYPE'}
+-------------------- CONTENT --------------------
+
+1. Define the following terms:
+(a) Pedigree chart (b) Variations (c) Mutation
+2. State the three Mendel's laws of inheritance 3. Does the sex of the child depend on the c-
+it is just a matter of chance? Discuss.
+4. Distinguish between the following pairs: (a) Karyotype and Karyokinesis
+(b) Autosomes and Sex chromosome
+(c) Homozygous and Heterozygous chromosome

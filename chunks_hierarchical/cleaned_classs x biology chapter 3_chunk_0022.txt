@@ -1,0 +1,12 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0022
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.11 MENDELS EXPERIMENTS ON INHERITANCE'}
+-------------------- CONTENT --------------------
+
+The basic principles of genetics were discovered for the first time by Gregor John Mendel in the midnineteenth century. Mendel was an Austrian monk and he conducted breeding experiments on garden pea ( Pisum sativum) out of sheer interest. His findings became a milestone in biology. Mendel had selected garden pea for the following reasons:
+1. Many varieties were available in alternative forms of a character. 2. Varieties were available in pure forms that bred true, i.e. produced the same type generation after generation. 3. Peas are normally self-pollinated but selfpollination could be prevented by removing corresponding reproductive parts (male part stamens and the female part carpels) of the flower and could as well be cross-pollinated artificially. 4. The life span of pea plant is short and many generations can be obtained and studied in less time. CASE 1: One of the monohybrid crosses is shown below in Genetics - Some Basic Fundamentals
+plants with axillary flowers and plants with terminal flowers in the ratio of 3: 1. These were the visible forms which we call the phenotypes.

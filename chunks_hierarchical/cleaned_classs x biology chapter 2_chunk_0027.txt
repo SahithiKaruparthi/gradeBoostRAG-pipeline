@@ -1,0 +1,33 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0027
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Review Questions', 'h3': 'A. MULTIPLE CHOICE TYPE'}
+-------------------- CONTENT --------------------
+
+Triple hydrogen bonds are present between
+(a) Adenine and Thymine (b) Adenine and Cytosin
+(c) Adenine and Guanine (d) Guanine and Cytosin
+9. In the cells of a human male body, the numbe of autosomes is:
+(a) 23 pairs (b) 22 pairs
+(c) 1 pair (d) 46 pairs
+Structure of Chromosomes, Cell Cycle and Cell Division
+10. The basis of genetic variation in the living organisms during meiosis occurs due to:
+(a) Cell division (b) Mutation (c) Crossing over (d) Karyokine
+11. After a mitotic cell division, a human female cell will have:
+(a) $22+\mathrm{X}$ chromosomes (b) $44+\mathrm{XY}$ chromosomes
+(c) $44+\mathrm{XX}$ chromosomes (d) $22+\mathrm{XX}$ chromosomes
+12. The correct sequence of phases in interphase is:
+(a) $G_{1}, G_{2}$ and $S$ (b) $S, G_{2}$ and $G_{1}$
+(c) $G_{1}, S$ and $G_{2}$ (d) $G_{2}, S$ and $G_{1}$
+13. The phase of karyokinesis which is almost the reverse of prophase is:
+(a) Interphase (b) Metaphase
+(c) Anaphase (d) Telophase
+14. The lengthwise arrangement of DNA mainly consists of a phosphate group attached with:
+(a) Hexose sugar (b) Purine
+(c) Pentose sugar (d) Pyrimidines
+15. The number of histone proteins associated with the DNA in a nucleosome is:
+(a) 6 (b) 8 (c) 4
+16.

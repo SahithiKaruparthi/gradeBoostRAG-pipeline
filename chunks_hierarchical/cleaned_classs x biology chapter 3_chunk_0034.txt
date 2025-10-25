@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0034
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'B. VERY SHORT ANSWER TYPE', 'h3': 'Column 1'}
+-------------------- CONTENT --------------------
+
+(Term) Explanation
+a. Genetics (i) Chromosomes similar in size and shape
+b. Autosomes (ii) The alternative forms of a gene
+c. Recessive gene (iii) Study of laws of inheritance of characters
+d Allele (iv) A gene that can express onl when in a similar pair
+c. Homologous (v) Chromosomes other than the
+2. Name any two genetic diseases in humans
+3. Which one of the following genotypes is homozygous dominant and which one homozygous recessive in regard to tongue rolling:
+Rr, rr, RR

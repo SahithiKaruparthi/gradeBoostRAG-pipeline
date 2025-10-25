@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0020
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'MITOCHONDRIA AND CHLOROPLASTS IN CELL DIVISION'}
+-------------------- CONTENT --------------------
+
+- Both mitochondria and chloroplasts have their own
+DNA (containing certain genes).
+- They also contain their own ribosomes which help
+organelles.
+- Both of these divide of their own by simple
+fission, just splitting into two and are partitioned
+mitosis.
+- Mitochondrial division is also guided by the
+ribosomes.

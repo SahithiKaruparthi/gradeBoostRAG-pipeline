@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0006
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Structure of Chromosomes, Cell Cycle and Cell Division', 'h3': '2.3 chromatin'}
+-------------------- CONTENT --------------------
+
+Histones
+- Components of a Nucleotide
+Pentose sugar, Phosphate group and Nitrogenous bases!Figure(figures/classs x biology chapter 2_page_003_figure_012_error.png)
+- Nitrogenous bases in DNA:
+Adenine, Guanine, Thymine and Cytosine
+- Nitrogenous bases in RNA:
+Adenine, Guanine, Cytosine and Uracil
+- Basic structural and functional unit of a:
+1. Nucleic acid (DNA/RNA): Nucleotide 2. Chromosome
+!Figure(figures/classs x biology chapter 2_page_003_figure_021_error.png)

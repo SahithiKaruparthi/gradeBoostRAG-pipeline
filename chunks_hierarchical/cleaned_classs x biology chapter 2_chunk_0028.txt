@@ -1,0 +1,15 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0028
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'Review Questions', 'h3': 'A. MULTIPLE CHOICE TYPE'}
+-------------------- CONTENT --------------------
+
+The pyrimidine bases of DNA are
+(a) Adenine and Guanine (b) Guanine and Cytosine
+(c) Adenine and Thymine (d) Thymine and Cytosin
+17. The female gamete/egg cell of a human cell will have:
+(a) 44+XX chromosomes (b) 44+XY chromosomes
+(c) $22+X$ chromosomes (d) $22+Y$ chromosomes

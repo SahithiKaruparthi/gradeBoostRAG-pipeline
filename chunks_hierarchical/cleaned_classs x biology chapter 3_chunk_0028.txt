@@ -1,0 +1,20 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0028
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': "Application of Mendel's laws", 'h3': '3.13 MUTATION'}
+-------------------- CONTENT --------------------
+
+Mutation is a sudden change in one or more genes, or in the number or in the structure of chromosomes.
+Mutation alters the hereditary material of an organisms cells and results in a change in certain characters or traits.
+For example:
+- (i) Sickle cell anaemia is a blood disease caused
+by a gene mutation. The mutation causes
+of sickle-shaped RBCs.
+- ii) Radioactive radiations also alter the gene
+generation after generation. An atomic
+World War-II 1945 in Japan (Hiroshima,
+Nagasaki), had led to a number of deformities
+still persisting.

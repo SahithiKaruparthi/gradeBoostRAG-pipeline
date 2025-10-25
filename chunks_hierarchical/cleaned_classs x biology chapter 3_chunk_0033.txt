@@ -1,0 +1,13 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0033
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Review Questions', 'h3': 'A. MULTIPLE CHOICE TYPE'}
+-------------------- CONTENT --------------------
+
+In the human male, a sperm contains autosomes and:
+(a) X and Y chromosomes (b) Only X chromosome (c) X or Y chromosome (d) Only Y chromosome. International Olympic Committee. 2021-09-27. (2021-09-27). 10. If the mother is normal and the father is haemophilic, then their two daughters will be:
+(a) Normal (b) Haemophilic
+(c) Carrier (d) None

@@ -1,0 +1,18 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0039
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'E. STRUCTURED/APPLICATION AND SKILL', 'h3': 'OFFSPRING (MALE)'}
+-------------------- CONTENT --------------------
+
+(i) Write the scientific name of garden pea. (j) Write two main features of pea plant due to which Mendel had selected it for his hybridisation studies. 5. A homozygous plant having round (R) and yellow (Y) seed is crossed with another homozygous plant having wrinkled (r) and green (y) seeds. Answer the following questions:
+(a) Give the genotype of the F 1 generation (b) Mention the phenotype of the F 1 offsp
+(c) Give the possible combinations of gametes th
+be obtained from F1 hybrids. (d) Give the dihybrid phenotypic ratio and the phenotype
+of the offsprings of the $F_{2}$ generation when two plants of $F_{1}$ generation are crossed. _!Figure(figures/classs x biology chapter 3_page_015_figure_017_error.png)
+(Died May 3, 2005)!Figure(figures/classs x biology chapter 3_page_015_figure_019_error.png)
+(Born April 12, 2006)
+HEBRA A cross between Horse & Zebra!Figure(figures/classs x biology chapter 3_page_015_figure_022_error.png)
+HEBRA? `Eclipse', a zebra-horse crossbreed, in Schloss Holte, Germany. The father of `Eclyse' was a horse from Italy and the mother was a zebra from the Safari Park.

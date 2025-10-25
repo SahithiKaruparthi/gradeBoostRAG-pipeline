@@ -1,0 +1,10 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 2_chunk_0030
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 2.md
+  Chapter: 2
+  Pages: [4, 5, 6]
+  Hierarchy: {'h1': 'Chapter 2', 'h2': 'B. VERY SHORT ANSWER TYPE'}
+-------------------- CONTENT --------------------
+
+chromosomes come to lie side by side. (f) The two non-sister chromatids of a paired chromosome are attached to each other at.................. during the process of crossing over.

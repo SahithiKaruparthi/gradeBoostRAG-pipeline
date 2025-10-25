@@ -1,0 +1,19 @@
+CHUNK METADATA:
+  ID: cleaned_classs x biology chapter 3_chunk_0012
+  Textbook: Class X Biology NCERT
+  Source File: cleaned_classs x biology chapter 3.md
+  Chapter: 3
+  Pages: [1, 2, 3, 1822]
+  Hierarchy: {'h1': 'Chapter 3', 'h2': 'Progress Check', 'h3': '3.8 GENOTYPE AND PHENOTYPE'}
+-------------------- CONTENT --------------------
+
+The three situations pertaining to any pair of genes, as for example in tongue rolling, can be as follows:
+(i) RR (both dominant) - TONGUE ROLLER
+(ii) Rr (one dominant, one recessive)  TONGUE ROLLER
+(iii) rr (both recessive) - NON-ROLLER
+You can see from the above example that the tongue rollers have two kinds of genetic constitutions (RR or Rr) whereas non-rollers have only one genetic constitution (rr).
+The genetic constitutions (pertaining to the kinds of genes possessed) are called genotype and the expressed shown character is called phenotype ( phene: to show). Thus, for the phenotype (for tongue rollers), there are two genotypes:
+i) homozygous dominant, that has similar pair RR (homo: similar, zygos: pair)
+(ii) heterozygous dominant with dissimilar pair $\mathrm{Rr}$ (hetero: different, zygos: pair)
+The genotype of non-roller is just one single homozygous recessive pair rr.!Figure(figures/classs x biology chapter 3_page_005_figure_025_error.png)
+Genetics - Some Basic Fundamentals
